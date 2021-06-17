@@ -1,5 +1,5 @@
 from socket import *
-from _thread import *
+from thread import *
 import select 
 import sys 
   
