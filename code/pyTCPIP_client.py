@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from socket import *
 import select as sel
 import sys 
